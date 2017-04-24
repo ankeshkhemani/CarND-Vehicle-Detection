@@ -86,4 +86,4 @@ I faced a lot of trouble due to false positives, some of which were not going aw
 So, I used a rather large number of sliding windows and this resulted in slower processing of each frame and I submit that my pipeline is not optimal for real-time processing. 
 For the limitation of fast enough processing power, we may have to use some other technique for removing false positive rather than an overkill of sliding windows. I hope to visit this project again to try out colour histograms as additional features to handle false positives.
 
-References: Visualisation tricks and ideas are attributed to the Udacity community.
+References: Visualisation tricks and pipeline tips are attributed to the Udacity community.
